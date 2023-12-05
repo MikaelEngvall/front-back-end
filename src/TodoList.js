@@ -42,7 +42,7 @@ const TodoList = () => {
               <td>{todo.addedDate}</td>
               <td>
                 <button type="button" className="btn btn-danger">
-                  X
+                  Delete
                 </button>
                 <button type="button" className="btn btn-warning">
                   Edit
